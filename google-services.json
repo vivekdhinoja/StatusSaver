@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "29490617719",
+    "firebase_url": "https://whatsapp-status-saver-6362d.firebaseio.com",
+    "project_id": "whatsapp-status-saver-6362d",
+    "storage_bucket": "whatsapp-status-saver-6362d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29490617719:android:1e1a3c43df2ff934",
+        "android_client_info": {
+          "package_name": "com.vivekdhinoja.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29490617719-laos4lcakfc99tmna6vkulc4j9rkh02n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI2lI745viG0NZhT6eR17evXJfUT04vyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
